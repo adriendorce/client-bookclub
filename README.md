@@ -1,11 +1,10 @@
-# BookClub
+# Client Bartending Mobile Service
 
-Simple website for a musician.
+Simple website for a local business.
 
-**Link to project:** https://artist.netlify.app
+**Link to project:** https://pink-bar.netlify.app
 
-<img width="400" alt="artist-screenshot" src="https://github.com/adriendorce/crud-app/assets/117544619/633ba7e2-86bf-4754-8fb5-241e9e0673d3">
-
+<img width="400" alt="pink-bar-client-site" src="https://github.com/adriendorce/client-website/assets/117544619/1d288d39-11e0-4b71-81e3-f5562ae76acf">
 
 
 ## How It's Made:
@@ -16,12 +15,12 @@ My learning was focused on CSS and JavaScript.
 
 ## Optimizations
 
-Add new pages for artist's bio and other info. Add server side JS.
+Add contact form and authorization. Add server side JS to make fullstack web app.
 
 
 ## Lessons Learned:
 
-
+Re-learned how to use floats, though Grid and Flexbox are now widely used, a lot of older websites still have floats. 
 
 ## Examples:
 Take a look at what I have in my own portfolio:
