@@ -4,7 +4,8 @@ Simple website for a local business.
 
 **Link to project:** https://pink-bar.netlify.app
 
-<img width="400" alt="pink-bar-client-site" src="https://github.com/adriendorce/client-website/assets/117544619/1d288d39-11e0-4b71-81e3-f5562ae76acf">
+![pink-bar_homepage](https://github.com/adriendorce/client-website/assets/117544619/e5d80a9e-4ee4-447f-ba8d-dcc465a61711)
+
 
 
 ## How It's Made:
