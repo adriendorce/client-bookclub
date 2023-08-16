@@ -21,7 +21,7 @@ Add contact form and authorization. Add server side JS to make fullstack web app
 
 ## Lessons Learned:
 
-Re-learned how to use floats, though Grid and Flexbox are now widely used, a lot of older websites still have floats. 
+Re-learned how to use floats, though Grid and Flexbox are now widely used, a lot of older websites still use floats. 
 
 ## Examples:
 Take a look at what I have in my own portfolio:
